@@ -1657,31 +1657,6 @@ header-area start
   margin-bottom: 0;
 }
 
-.post-img {
-  float: left;
-  margin-right: 20px;
-}
-
-.post-content {
-  overflow: hidden;
-}
-
-.post-content a {
-  font-size: 16px;
-  font-weight: 500;
-  color: #333;
-}
-
-.post-content a:hover {
-  color: #ef4836;
-}
-
-.post-content p {
-  line-height: 15px;
-  font-size: 12px;
-  font-weight: 500;
-}
-
 .select-style {
   width: 100%;
   height: 40px;
