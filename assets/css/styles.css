@@ -140,22 +140,22 @@ div {
 }
 
 .bg-img-1 {
-  background: url(../images/banner/1.jpg) no-repeat center center / cover;
+  background: url(../images/cart/3.webp) no-repeat center center / cover;
 }
 .bg-img-8 {
-  background: url(../images/banner/2.jpg) no-repeat center center / cover;
+  background: url(../images/cart/1.webp) no-repeat center center / cover;
 }
 
 .bg-img-2 {
-  background: url(../images/bg/1.jpg) no-repeat center center / cover;
+  background: url(../images/cart/4.webp) no-repeat center center / cover;
 }
 
 .bg-img-3 {
-  background: url(../images/bg/2.html) no-repeat center center / cover;
+  background: url(../images/cart/2.webp) no-repeat center center / cover;
 }
 
 .bg-img-4 {
-  background: url(../images/bg/3.jpg) no-repeat center center / cover;
+  background: url(../images/cart/4.webp) no-repeat center center / cover;
 }
 
 .ptb-25 {
@@ -170,8 +170,8 @@ div {
   padding: 15px 0px;
 }
 
-.ptb-100 {
-  padding: 100px 0px;
+.ptb-140 {
+  padding: 140px 0px;
 }
 
 .pt-100 {
@@ -1774,6 +1774,13 @@ shop single style here
   padding: 0px 40px;
 }
 
+.product-thumbnil-active.owl-carousel .owl-item .item {
+  height: 155px;
+}
+.product-thumbnil-active.owl-carousel .owl-item img {
+  height: 100% !important;
+}
+
 .product-thumbnil-active .owl-nav div {
   position: absolute;
   left: 0;
@@ -2123,7 +2130,7 @@ shop single style here
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   zoom: 1;
-  width: 100%;
+  height: 225px;
 }
 
 .featured-product-wrap:hover .featured-product-img img {
